@@ -36,8 +36,6 @@ the player must beat the enemy boss and reach the end flag.
 
 
 <p align="center">
-  <img src="res/sailor/sailorHitRight.png">
-  <br>
   <strong>Good luck and have fun!</strong> ❤️
 </p>
 
